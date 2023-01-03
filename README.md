@@ -1,1 +1,1 @@
-Simple JavaScript ToDo APP
+TimeTracker is ToDo App designed in Java Script. 
